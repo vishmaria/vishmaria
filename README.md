@@ -26,7 +26,10 @@
 
 ###
 
-<h4 align="left">➡ Atualmente estou aprimorando minhas habilidades em Data Analytics no Bootcamp da WoMakersCode 🦋, onde  aplicando meus conhecimentos prévios de Python e bancos de dados PostgresSQL e MySQL<br><br>➡ Minhas outras áreas de interesse são Cybersegurança e IoT 😄</h4>
+<h4 align="left">➡ Atualmente sou estagiaária de Dados, onde  aplicando meus conhecimentos prévios de Python e bancos de dados PostgresSQL e MySQL<br>
+  
+  <br>➡ Meu objetivo atual é desenvolver meus conhecimentos em Machine Larning e serviços de nuvem, como AWS e Azure<br>
+  <br>➡ Minhas outras áreas de interesse são Cybersegurança e IoT 😄</h4>
 
 ###
 
