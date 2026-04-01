@@ -26,9 +26,9 @@
 
 ###
 
-<h4 align="left">➡ Atualmente sou estagiaária de Dados, onde  aplicando meus conhecimentos prévios de Python e bancos de dados PostgresSQL e MySQL<br>
+<h4 align="left">➡ Atuo em Análise e Ciència de Dados, onde  aplicando meus conhecimentos prévios de Python, SQL e machine learning.<br>
   
-  <br>➡ Meu objetivo atual é desenvolver meus conhecimentos em Machine Larning e serviços de nuvem, como AWS e Azure<br>
+  <br>➡ Meu objetivo atual é aprimorar meus conhecimentos em Machine Larning e serviços de nuvem, como AWS e Azure<br>
   <br>➡ Minhas outras áreas de interesse são Cybersegurança e IoT 😄</h4>
 
 ###
