@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishmaria&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=vishmaria&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=vishmaria&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishmaria&hide=makefile%2Cc%2Cjupyter%20notebook%2Cvhdl&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
 </div>
