@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋! My name is Maria and I'm a Coumputer Science Student from Florianópolis, Brazil<br><br>Oi 👋! Meu nome é Maria e estou cursando graduação em Ciências da Computação na UFSC</h2>
 
 ###
- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vishmaria&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula)
- 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vishmaria&hide=jupyter%20notebook,c,css,html,makefile,vhdl,TypeScript&layout=compact&langs_count=5&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=5&theme=dracula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vishmaria&rank_icon=default&hide_rank=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=vishmaria&rank_icon=default&hide_rank=true&include_all_commits=true&theme=dracula)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vishmaria&hide=jupyter%20notebook,c,css,html,makefile,vhdl,TypeScript&layout=compact&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=vishmaria&langs_count=4&theme=dracula)
   
-  <img src="https://streak-stats.demolab.com?user=vishmaria&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=vishmaria&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 
 ###
 
